@@ -1,4 +1,4 @@
-# Historia-del-cine
+
 <html>
 <head>
 <title>VIAJE POR LA HISTORIA DEL CINE</title>
@@ -21,7 +21,7 @@
 <P>Los hermanos lumiére, auguste y louis fueron pioneros en el campo del cine. Nacidos en francia en la década de 1860, inventaron el cimatógrafo, un dispositivo que permitía la proyección de películas en movimiento. En 1895, realizaron la primera proyeccíon pública de cine en paris, mostrando una serie cortometrajes,incluyendo "La salida de los obreros de la fábrica Lumiére".Este evento marcó el comienzo de la era del cine. los hermanos Lumiére continuaron innovando en el campo del cine y comtribuyeron sinificativamente al desarrollo de la industria cinematografica. </P>
 <h4>La salida de los obreros</h4><p>La salida de los obreros es una de las principales escenas grabadas en movimiento, con una duración de 40 minutos, este video capta a unos obreros saliendo de una fábrica:</p><br />
 <a target="_blank" href="https://youtu.be/j9PKwtyEh5g?si=E30I3x2Zl4eDeQ6w">Ver video en youtube</a> <br />
-<a target="_blank" href="fff:///C:/Users/Estudiante/Desktop/2nota.html">ir a página 2</a>
+<a target="_blank" href= https://migueldavidr30.github.io/Caractersticas-del-cine-moderno/">ir a página 2</a>
 </P>
 
 </body>
